@@ -1,4 +1,4 @@
-# simple-saas
+# Django-SaaS
 - This django project is meant to serve as a boilerplate code for building any saas tool
 
 - The directory `saas` serves as a django app with all the boilerplate code
